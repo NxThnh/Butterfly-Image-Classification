@@ -45,7 +45,7 @@ Dataset gồm nhiều hình ảnh bướm thuộc các loài khác nhau (thườ
 
 1. Clone repo:
    ```bash
-   git clone https://github.com/ten-ban/butterfly-classification.git
+   git clone https://github.com/NXThnh/butterfly-classification.git
    cd butterfly-classification
    ```
 
